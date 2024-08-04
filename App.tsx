@@ -209,7 +209,7 @@ const styles = StyleSheet.create({
     // backgroundColor: '#f9c2ff',
     padding: rS(5),
     marginVertical: rS(3),
-    marginHorizontal: rS(3),
+    // marginHorizontal: rS(3),
   },
   itemNew: {
     flexDirection: 'row',
